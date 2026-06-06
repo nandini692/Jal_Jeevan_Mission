@@ -172,3 +172,4 @@ Data Analyst | Excel Dashboard Developer | Power BI Enthusiast
 ✅ Completed
 📊 Interactive Dashboard Available
 📈 Ready for Reporting & Analysis
+![alt text](Dashboard.png)
