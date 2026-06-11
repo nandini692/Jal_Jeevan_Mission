@@ -1,7 +1,7 @@
 # Jal_Jeevan_Mission
 # Jal Jeevan Mission (JJM) – FHTC Coverage Analysis Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes **Jal Jeevan Mission (JJM)** data to monitor the progress of **Functional Household Tap Connections (FHTC)** across districts. The dashboard provides insights into scheme performance, water source distribution, district-wise coverage, and yearly trends.
 
@@ -9,7 +9,7 @@ The objective is to track the implementation of drinking water schemes and evalu
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Monitor FHTC coverage across districts.
 * Analyze the performance of water supply schemes.
@@ -20,7 +20,7 @@ The objective is to track the implementation of drinking water schemes and evalu
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 | Column Name         | Description                               |
 | ------------------- | ----------------------------------------- |
@@ -37,7 +37,7 @@ The objective is to track the implementation of drinking water schemes and evalu
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 
 ### KPI Cards
 
@@ -87,7 +87,7 @@ The objective is to track the implementation of drinking water schemes and evalu
 
 ---
 
-## 📈 Key Metrics
+## Key Metrics
 
 ### Coverage Formula
 
@@ -108,7 +108,7 @@ Where:
 
 ---
 
-## 🔍 Insights Generated
+##  Insights Generated
 
 * Districts with the highest FHTC coverage.
 * Districts requiring improvement.
@@ -119,7 +119,7 @@ Where:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 * Microsoft Excel
 * Pivot Tables
@@ -130,7 +130,7 @@ Where:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### Data Sample
 
@@ -148,7 +148,7 @@ Where:
 
 ---
 
-## 🚀 Business Impact
+##  Business Impact
 
 This dashboard helps government agencies and stakeholders:
 
@@ -160,14 +160,14 @@ This dashboard helps government agencies and stakeholders:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Nandini Jain**
 Data Analyst | Excel Dashboard Developer | Power BI Enthusiast
 
 ---
 
-## 📌 Project Status
+## Project Status
 
 ✅ Completed
 📊 Interactive Dashboard Available
