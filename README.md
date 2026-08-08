@@ -130,7 +130,10 @@ Where:
 
 ---
 
-##  Dashboard Preview
+
+## 📊 Dashboard Preview
+
+![JJM Data Analysis Dashboard](Dashboard.png)
 
 ### Data Sample
 
