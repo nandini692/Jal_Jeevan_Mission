@@ -133,7 +133,7 @@ Where:
 
 ## 📊 Dashboard Preview
 
-![JJM Data Analysis Dashboard](Dashboard.png)
+![JJM Data Analysis Dashboard](Images/Dashboard.png)
 
 ### Data Sample
 
